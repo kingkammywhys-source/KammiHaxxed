@@ -1,0 +1,12 @@
+{
+  "name": "kammi-haxed",
+  "version": "1.0.0",
+  "description": "NFC Hax for Adelaide Corp Cards",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
